@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dandy 👋</h1>
+<h1 align="center">Holla, I'm Dandy 👋</h1>
 <p align="center">I learn and create programs using various programming languages including Python, Rust, Java, and more.</p>
 
 ---
