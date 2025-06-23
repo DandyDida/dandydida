@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Currently Learning:
-- Java 
+- Java
 - Rust
 - PHP (Done)
 
